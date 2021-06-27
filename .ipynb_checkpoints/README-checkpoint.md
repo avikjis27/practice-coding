@@ -8,7 +8,7 @@ Because practice makes a man perfect
 - Linked list, stacks, queues, two pointers/sliding window
 - Binary heaps
 - Dynamic programming
-- Union find
+- [Union find](Union-and-Find.ipynb)
 - [Ad hoc/string](String.ipynb) manipulations
 - Arrays
 - Recursion, Backtracking, Greedy algorithms
